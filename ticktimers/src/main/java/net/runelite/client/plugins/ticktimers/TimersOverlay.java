@@ -150,7 +150,7 @@ public class TimersOverlay extends Overlay
 						priority = 2;
 						break;
 					case GENERAL_GRAARDOR:
-						priority = 0;
+						priority = 4;
 						break;
 					default:
 						break;
